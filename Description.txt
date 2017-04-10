@@ -1,0 +1,1 @@
+I have used Basic Jquery In writing a code which appends a div and deletes a div for adding or deleting elements in to-do list.
